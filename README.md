@@ -1,3 +1,5 @@
+Responsive for large and medium screened devices
+
 Used React.js and Bootstrap 
 
 # React + Vite
